@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Coco
+ *
+ */
+module chess {
+}
